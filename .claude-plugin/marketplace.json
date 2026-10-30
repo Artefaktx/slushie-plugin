@@ -1,0 +1,12 @@
+{
+  "name": "slushie",
+  "owner": { "name": "Artefaktx", "email": "team@slushie.studio" },
+  "metadata": { "description": "Slushie's plugins for Claude." },
+  "plugins": [
+    {
+      "name": "slushie",
+      "source": "./slushie",
+      "description": "Feed your Slushie content studio from where you build: find a project's brand, add finished screens and demos to its vault, tell the studio what shipped."
+    }
+  ]
+}

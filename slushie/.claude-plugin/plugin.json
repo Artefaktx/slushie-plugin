@@ -1,0 +1,11 @@
+{
+  "name": "slushie",
+  "displayName": "Slushie",
+  "version": "1.0.0",
+  "description": "Feed your Slushie content studio from where you build: find the brand a project belongs to, add finished screens, product shots and demo videos to that brand's vault, and tell the studio what shipped. Slushie drafts the posts; you approve every one.",
+  "author": { "name": "Artefaktx", "url": "https://slushie.studio" },
+  "homepage": "https://slushie.studio/connector",
+  "repository": "https://github.com/Artefaktx/slushie-plugin",
+  "license": "MIT",
+  "keywords": ["marketing", "content", "social media", "brand", "assets", "launch"]
+}

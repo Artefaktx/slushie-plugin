@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "slushie": {
+      "type": "http",
+      "url": "https://slushie.studio/api/mcp"
+    }
+  }
+}
